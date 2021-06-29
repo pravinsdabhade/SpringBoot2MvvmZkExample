@@ -37,11 +37,11 @@
 			<id>ZK Evaluation</id>
 			<url>https://mavensync.zkoss.org/eval</url>
 		</repository>
-		<repository>
+		<!-- <repository>
 			<id>com.asual.maven.public</id>
 			<name>Asual Public Repository</name>
 			<url>http://www.asual.com/maven/content/groups/public</url>
-		</repository>
+		</repository> -->
 	</repositories>
 	<dependencies>
 
