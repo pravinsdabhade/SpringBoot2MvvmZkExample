@@ -9,10 +9,9 @@
 		<version>2.3.11.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>SpringBoot2ZKOSS</artifactId>
-	<!-- <version>0.0.1-SNAPSHOT</version> <name>SpringBoot2ZKOSS</name> -->
-	<version>9.5</version>
+	<groupId>demo.getting_started.mvvm</groupId>
+	<artifactId>SpringBoot2MvvmZkExample</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 
 	<description>Demo project for zkoss UI</description>
