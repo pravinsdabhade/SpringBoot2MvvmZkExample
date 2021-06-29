@@ -7,7 +7,7 @@ Date: 2021-06-29 </br>
 <b> Overview </b>
 <p> This is simple Zkoss UI project using MVVM design pattern without database conectivity.
 
-<b> How to Run </b>
+# How to Run
 <p>Clone the project and launch your command line interface in the project root folder. Execute the following commands based on your environment </br>
   <b> mvn spring-boot:run </b>
   
