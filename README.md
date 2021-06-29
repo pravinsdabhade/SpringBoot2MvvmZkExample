@@ -8,8 +8,10 @@ Date: 2021-06-29 </br>
 <p> This is simple Zkoss UI project using MVVM design pattern without database conectivity.
 
 <b> How to Run </b>
-<p>Clone the project and launch your command line interface in the project root folder. Execute the following commands based on your environment
-
+<p>Clone the project and launch your command line interface in the project root folder. Execute the following commands based on your environment </br>
+  <b> mvn spring-boot:run </b>
+  
+  
 To visit http://localhost:8080/demo on your browser, will respone simple zk page.
 
 By default mvvvm.zul page satted as homepage in property (xml) file.
