@@ -1,11 +1,11 @@
 # SpringBoot2MvvmZkExample
 
-Demo Case Name: MVVM Tutorial
-ZK Version: 9.5.1-Eval
-Date: 2021-06-29
+Demo Case Name: MVVM Tutorial </br>
+ZK Version: 9.5.1-Eval </br>
+Date: 2021-06-29 </br>
 
 <b> Overview </b>
-<p> This is simple Zkoss UI project using MVVM design pattern.
+<p> This is simple Zkoss UI project using MVVM design pattern without database conectivity.
 
 <b> How to Run </b>
 <p>Clone the project and launch your command line interface in the project root folder. Execute the following commands based on your environment
