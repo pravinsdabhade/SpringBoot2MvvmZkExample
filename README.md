@@ -14,10 +14,11 @@ Date: 2021-06-29 </br>
 
 If you face blocked mirror for repositories error whiling maven run then refer the settings.xml(available into this project for reference purpose) in your local machine .m2 folder.
   
-To visit http://localhost:8080/demo on your browser, will respone simple zk page.
+To visit <b> http://localhost:8080/ </b> on your browser.</br>
+By default mvvvm.zul page set as homepage in property (xml) file. 
 
-By default mvvvm.zul page satted as homepage in property (xml) file.
-To visit <b> http://localhost:8080/ </b> on your browser.
+
+To visit http://localhost:8080/demo on your browser, will respone simple zk page.
 
 Reference URL : https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial#MVC:_Autowire_UI_objects_to_data_members
 
