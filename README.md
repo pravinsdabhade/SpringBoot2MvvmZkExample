@@ -11,6 +11,8 @@ Date: 2021-06-29 </br>
 <p>Clone the project and launch your command line interface in the project root folder. Execute the following commands based on your environment </br>
   <b> mvn spring-boot:run </b>
   
+
+If you face blocked mirror for repositories error whiling maven run then refer the setting.xml(available into this project for reference purpose) in your local machine .m2 folder.
   
 To visit http://localhost:8080/demo on your browser, will respone simple zk page.
 
